@@ -3,7 +3,10 @@
 # How to downgrade:
 - Goto "C:\Users\Your PC Name\AppData\Local\CapCut\Apps" And delete all of the folders in there.
 - Download the version's installer from the links listed above and run it.
-
+- [6.5.0 (Beta6)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_6_5_0_2558_beta6_capcutpc_beta_creatortool.exe)
+- [6.4.0 (Latest)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_6_4_0_2530_capcutpc_0_creatortool.exe)
+- [6.0.0 (Latest)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_6_0_0_2302_capcutpc_0_creatortool.exe)
+- [5.8.0 (Latest)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_8_0_2207_capcutpc_0_creatortool.exe)
 - [5.7.0 (Latest)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_7_0_2112_capcutpc_0_creatortool.exe)
 - [5.7.0 (Test4)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_7_0_2110_capcutpc_0_creatortool.exe)
 - [5.7.0 (Test3)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_5_7_0_2104_capcutpc_0_creatortool.exe)
